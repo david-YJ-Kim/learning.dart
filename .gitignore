@@ -1,0 +1,24 @@
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
+.pub/
+/build/
+.dart_pub/
+.packages
+*.iml
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Flutter-specific
+ios/Flutter/
+android/build/
+android/gradle/
+build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
